@@ -1,4 +1,8 @@
 # projectWAMP
+<img src='https://github.com/wchim/projectWAMP-Recycling-Image-Classification/blob/master/logo.png'
+     alt='alt text'
+     height='300px'
+     width='300px'>
 ## Overview
 
 ## References
