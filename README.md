@@ -7,7 +7,7 @@
 ## Overview
 projectWAMP is our final group project in Google's Applied Machine Learning Intensive.
 
-We intended to create a recyclability classifier that encourages good recycling practices by educating users in distinguishing between recyclable, nonrecyclable, and organic material and provides tips and guides on how to recycle different types of material.
+We intended to create a recyclability classifier that encourages good recycling practices by educating users in distinguishing between recyclable, nonrecyclable, and organic material and provides tips and guides on how to recycle and dispose different types of material.
 ## References
 - Created my free logo at LogoMakr.com: https://my.logomakr.com/
 - Photo Editor: https://www132.lunapic.com/editor/
