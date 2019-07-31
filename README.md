@@ -2,9 +2,12 @@
 <img src='https://github.com/wchim/projectWAMP-Recycling-Image-Classification/blob/master/logo.png'
      alt='alt text'
      height='300px'
-     width='300px'>
+     width='300px'
+     align='right'>
 ## Overview
-projectWAMP is a recyclability classifier that encourages good recycling practice by educating users in distinguishing between recyclable, nonrecyclable, and organic material and provides tips and guides on how to recycle different types of material.
+projectWAMP is our final group project in Google's Applied Machine Learning Intensive.
+
+We intended to create a recyclability classifier that encourages good recycling practices by educating users in distinguishing between recyclable, nonrecyclable, and organic material and provides tips and guides on how to recycle different types of material.
 ## References
 - Created my free logo at LogoMakr.com: https://my.logomakr.com/
 - Photo Editor: https://www132.lunapic.com/editor/
@@ -16,3 +19,4 @@ projectWAMP is a recyclability classifier that encourages good recycling practic
 
 ## Authors
 Wayne Chim, Abdoul Aziz Sandotin Coulibaly, Min Henderson, Prashamsa Rimal
+AMLI @ Agnes Scott Summer 2019
