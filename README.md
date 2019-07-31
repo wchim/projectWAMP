@@ -19,4 +19,4 @@ We intended to create a recyclability classifier that encourages good recycling 
 
 ## Authors
 Wayne Chim, Abdoul Aziz Sandotin Coulibaly, Min Henderson, Prashamsa Rimal
-AMLI @ Agnes Scott Summer 2019
+#### AMLI @ Agnes Scott Summer 2019
