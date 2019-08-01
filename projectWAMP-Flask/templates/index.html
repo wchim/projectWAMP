@@ -1,0 +1,58 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="center-container">
+     <div class="barlow">   
+        <h1>
+            Do you know how to recycle this?
+        </h1>
+    </div>    
+
+    <form id="upload-file"
+    	  method='POST'
+    	  enctype="multipart/form-data">
+        
+        <div class='barlow' style>
+            <label for="imageUpload"
+                   class="upload-label">
+                Select Image
+            </label>
+        </div>
+        
+        <input type="file"
+        	   name="file"
+        	   id="imageUpload"
+        	   accept=".png, .jpg, .jpeg">
+    </form>
+
+    <div class="image-section">
+        <div class="img-preview">
+            <div id="imagePreview">
+            </div>
+        </div>
+        <div></div>
+        <div class='barlow'>
+            <button type="button"
+                    class="predict-label"
+                    id="btn-predict">
+                Let's Find Out!
+            </button>
+        </div>
+    </div>
+
+    <div class="loader">
+        <div>
+            
+        </div>
+        <div>
+            
+        </div>
+    </div>
+
+    <h3 class='barlow' id="result" style="margin-top: 10px; color: #FFF;">
+        <span> </span>
+    </h3>
+</div>
+<div class='center-container' style='position: absolute; right: 0; bottom: 0; height: 2.5rem;'>
+     <a href='https://my.logomakr.com/'>Created my free logo at LogoMakr.com</a>
+</div>
+{% endblock content %}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+        <title>projectWAMP</title>
+        <link href="https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.bootcss.com/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdn.bootcss.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet">
+        <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}"> 
+        <link href="https://fonts.googleapis.com/css?family=Barlow&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class='center-container'>
+            <nav class="navbar navbar-light" style="background-color: rgba(255,255,255,0.3); width: 100%">
+                <div class='barlow'>
+                    <a class="navbar-brand" href="/">
+                        <img src="/static/logo2.png" width="50" height="50" alt="">
+                        projectWAMP
+                    </a>
+                </div>
+                <div class='barlow'>
+                    <a href="/background" style="color: #FFF">
+                        Why Recycle
+                    </a>
+                </div>
+                <div class='barlow'>
+                    <a href="/about" style="color: #FFF">
+                        About
+                    </a>
+                </div>
+                <div class='barlow'>
+                    <div class='dropdown'>
+                        <button class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" style='background-color: transparent; border-color: transparent;'>
+                            Interpret the Colors
+                        </button>
+                            <div class="dropdown-menu" style='background-color: transparent; border-color: transparent;'>
+                                <a class="dropdown-item" href="/blue" style='color: #60B0F4;'>
+                                    Blue
+                                </a>
+                                <a class="dropdown-item" href="/green" style='color: #A8E28E;'>
+                                    Green
+                                </a>
+                                <a class="dropdown-item" href="/orange" style='color: #F3B961;'>
+                                    Orange
+                                </a>
+                                <a class="dropdown-item" href="/purple" style='color: #A873D2;'>
+                                    Purple
+                                </a>
+                                <a class="dropdown-item" href="/red" style='color: #CF605A;'>
+                                    Red
+                                </a>
+                            </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+        <div class="container">
+            <div id="content" style="margin-top:2em">{% block content %}{% endblock %}</div>
+        </div>
+
+        <div id="Belt">
+            <div class='Item Can'></div>
+            <div class='Item Can'></div>
+            <div class='Item Chips'></div>
+            <div class='Item Beer'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Beer'></div>
+            <div class='Item Water'></div>
+            <div class='Item Can'></div>
+            <div class='Item Chips'></div>
+            <div class='Item Beer'></div>
+            <div class='Item Water'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Fruit'></div>
+            <div class='Item Phone'></div>
+            <div class='Item Phone'></div>
+            <div class='Item Fruit'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Can'></div>
+            <div class='Item Can'></div>
+            <div class='Item Can'></div>
+            <div class='Item Can'></div>
+            <div class='Item Can'></div>
+            <div class='Item Can'></div>
+            <div class='Item Chips'></div>
+            <div class='Item Chips'></div>
+            <div class='Item Chips'></div>
+            <div class='Item Chips'></div>
+            <div class='Item Chips'></div>
+            <div class='Item Chips'></div>
+            <div class='Item Beer'></div>
+            <div class='Item Beer'></div>
+            <div class='Item Beer'></div>
+            <div class='Item Beer'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Newspaper'></div>
+            <div class='Item Water'></div>
+            <div class='Item Water'></div>
+            <div class='Item Water'></div>
+            <div class='Item Water'></div>
+            <div class='Item Water'></div>
+            <div class='Item Fruit'></div>
+            <div class='Item Fruit'></div>
+            <div class='Item Phone'></div>
+        </div>
+
+    </body>
+
+    <footer>
+        <div>
+            <script src="{{ url_for('static', filename='js/main.js') }}" type="text/javascript"></script> 
+        </div>  
+    </footer>
+</html>
