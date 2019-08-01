@@ -1,2 +1,0 @@
-# projectWAMP
-# Flask Deployment
