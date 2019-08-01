@@ -4,10 +4,21 @@
      height='300px'
      width='300px'
      align='right'>
+     
 ## Overview
 projectWAMP is our final group project in Google's Applied Machine Learning Intensive.
 
 We intended to create a recyclability classifier that encourages good recycling practices by educating users in distinguishing between recyclable, nonrecyclable, and organic material and provides tips and guides on how to recycle and dispose different types of material.
+
+## Labels
+The current state of our model has five labels:
+- Blue (Paper material)
+- Green (Plastic, glass beverage bottles; aluminum, steel, and tin cans)
+- Orange (Organic material)
+- Purple (Electronic)
+- Red (Nonrecyclable trash; easily contaminated material; waste that require specialized recycling methods)
+## Process
+TODO
 ## References
 - Created my free logo at LogoMakr.com: https://my.logomakr.com/
 - Photo Editor: https://www132.lunapic.com/editor/
