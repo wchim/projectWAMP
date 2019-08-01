@@ -1,0 +1,8 @@
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+pandas
+PILLOW
+tensorflow >= 1.14.*
+keras
+opencv-python
