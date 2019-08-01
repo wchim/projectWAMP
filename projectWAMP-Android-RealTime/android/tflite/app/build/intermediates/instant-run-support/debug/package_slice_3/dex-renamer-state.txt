@@ -1,0 +1,4 @@
+#Sat Jul 27 12:49:00 EDT 2019
+base.0=/Users/abdoulaziz/Desktop/projectWAMP_app/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/3
+renamed.0=classes.dex
+file.0=/Users/abdoulaziz/Desktop/projectWAMP_app/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex
