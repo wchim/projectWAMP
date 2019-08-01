@@ -22,7 +22,8 @@ The current state of our model has five labels:
 ## Process
 TODO
 ## Web Application
-<img>
+<img src='https://github.com/wchim/projectWAMP-Recycling-Classifier-Collective/blob/master/webappdemo.png'
+     alt='alt text'>
 ## References
 - Created my free logo at LogoMakr.com: https://my.logomakr.com/
 - Photo Editor: https://www132.lunapic.com/editor/
