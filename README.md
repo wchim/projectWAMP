@@ -20,7 +20,11 @@ The current state of our model has five labels:
 - Purple (Electronic)
 - Red (Nonrecyclable trash; easily contaminated material; waste that require specialized recycling methods)
 ## Process
-TODO
+1. Input Image
+2. Object Detection
+3. Crop Subimages
+4. Recyclability Classification
+5. Results
 ## Web Application
 <img src='https://github.com/wchim/projectWAMP-Recycling-Classifier-Collective/blob/master/webappdemo.png'
      alt='alt text'>
