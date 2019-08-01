@@ -9,7 +9,9 @@
 projectWAMP is our final group project in Google's Applied Machine Learning Intensive.
 
 We intended to create a recyclability classifier that encourages good recycling practices by educating users in distinguishing between recyclable, nonrecyclable, and organic material and provides tips and guides on how to recycle and dispose different types of material.
-
+## Dataset
+This link is our Dataset zipped:
+https://drive.google.com/file/d/1a-C6BTHXAv-qmX_pfx-ocU2558JcXVlo/view?usp=sharing
 ## Labels
 The current state of our model has five labels:
 - Blue (Paper material)
