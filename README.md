@@ -21,6 +21,8 @@ The current state of our model has five labels:
 - Red (Nonrecyclable trash; easily contaminated material; waste that require specialized recycling methods)
 ## Process
 TODO
+## Web Application
+<img>
 ## References
 - Created my free logo at LogoMakr.com: https://my.logomakr.com/
 - Photo Editor: https://www132.lunapic.com/editor/
