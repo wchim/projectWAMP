@@ -1,5 +1,0 @@
-https://stackoverflow.com/questions/31984196/ipython-notebook-run-all-cells-on-open/38856870#38856870
-https://chris-said.io/2016/02/13/how-to-make-polished-jupyter-presentations-with-optional-code-visibility/
-https://www.w3schools.com/html/
-https://stackoverflow.com/questions/35911252/disable-tensorflow-debugging-information
-https://tutel.me/c/codereview/questions/162920/file+selection+button+for+jupyter+notebook
